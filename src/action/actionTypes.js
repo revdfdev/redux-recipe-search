@@ -1,0 +1,8 @@
+export const SEARCH_RECIPE = "SEARCH_RECIPE"
+export const SEARCH_ERROR = "SEARCH_ERROR"
+export const SEARCH_RESET = "SEARCH_RESET"
+
+
+export const SINGLE_RECIPE = "SINGLE_RECIPE"
+export const SINGLE_ERROR = "SINGLE_ERROR"
+export const SINGLE_RESET = "SINGLE_RESET"
